@@ -1,0 +1,8 @@
+O projeto trata de um scanner de rede que tenta mensurar quantas pessoas estão no ambiente,
+baseado na rede WIFI.
+
+Tem a tela onde se vê o contador, e a tela onde é cadastrado a subrede que será escaneada.
+
+Basta executar os scripts: "startCliente.sh", "startServer.sh"
+
+O sistema foi apenas testado em Linux.
