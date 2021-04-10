@@ -1,0 +1,15 @@
+{
+  "name": "net-scanner",
+  "version": "0.0.1",
+  "description": "Trabalho para a disciplina de Redes",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "local-network-scanner": "^0.2.0",
+    "netmap": "^1.0.6",
+    "socket.io": "^4.0.1"
+  },
+  "scripts": {
+    "run": "node ./index.js"
+  }
+}
